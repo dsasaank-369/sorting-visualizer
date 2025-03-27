@@ -20,7 +20,7 @@ A React-based interactive sorting algorithm visualizer that allows users to see 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/sorting-visualizer.git
+   git clone https://github.com/dsasaank-369/sorting-visualizer.git
    cd sorting-visualizer
 2.Install dependencies: npm i
 3. Start the server: npm run dev
