@@ -22,6 +22,14 @@ A React-based interactive sorting algorithm visualizer that allows users to see 
    ```sh
    git clone https://github.com/your-username/sorting-visualizer.git
    cd sorting-visualizer
-2.Install dependencies:
-  ```sh
-  npm install
+2.Install dependencies: npm i
+3. Start the server: npm run dev
+
+
+## Technologies Used
+- React.js
+- JavaScript (ES6+)
+- CSS for styling
+
+    
+  
